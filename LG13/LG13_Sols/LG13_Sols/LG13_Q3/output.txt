@@ -1,0 +1,16 @@
+Adding 20 to each then ASCII Equivalent
+98 b
+102 f
+107 k
+60 <
+78 N
+85 U
+116 t
+112 p
+120 x
+91 [
+62 >
+113 q
+115 s
+56 8
+96 `

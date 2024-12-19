@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\.shortcut-targets-by-id\\1aCElN31RCj8MZ91EHoxFij3bu2bahZxq\\CTIS151\\151_24_25Fall\\LabGuides\\LG03 - WIP\\LG3_Sols\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49CE4A83-7BDE-4523-9BCA-D1E882EA5009}|LG3_Q5\\LG3_Q5.vcxproj|G:\\.shortcut-targets-by-id\\1aCElN31RCj8MZ91EHoxFij3bu2bahZxq\\CTIS151\\151_24_25Fall\\LabGuides\\LG03 - WIP\\LG3_Sols\\LG3_Q5\\Q5a.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49CE4A83-7BDE-4523-9BCA-D1E882EA5009}|LG3_Q5\\LG3_Q5.vcxproj|solutionrelative:LG3_Q5\\Q5a.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD647842-7A68-4274-8309-A6F43C984456}|LG3_AQ3\\LG3_AQ3.vcxproj|G:\\.shortcut-targets-by-id\\1aCElN31RCj8MZ91EHoxFij3bu2bahZxq\\CTIS151\\151_24_25Fall\\LabGuides\\LG03 - WIP\\LG3_Sols\\LG3_AQ3\\AQ3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD647842-7A68-4274-8309-A6F43C984456}|LG3_AQ3\\LG3_AQ3.vcxproj|solutionrelative:LG3_AQ3\\AQ3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CC3BF7-1F6C-4503-B5B2-332D772B0B3A}|LG3_Q1\\LG3_Q1.vcxproj|G:\\.shortcut-targets-by-id\\1aCElN31RCj8MZ91EHoxFij3bu2bahZxq\\CTIS151\\151_24_25Fall\\LabGuides\\LG03 - WIP\\LG3_Sols\\LG3_Q1\\Q1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F8CC3BF7-1F6C-4503-B5B2-332D772B0B3A}|LG3_Q1\\LG3_Q1.vcxproj|solutionrelative:LG3_Q1\\Q1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Q5a.cpp",
+              "DocumentMoniker": "G:\\.shortcut-targets-by-id\\1aCElN31RCj8MZ91EHoxFij3bu2bahZxq\\CTIS151\\151_24_25Fall\\LabGuides\\LG03 - WIP\\LG3_Sols\\LG3_Q5\\Q5a.cpp",
+              "RelativeDocumentMoniker": "LG3_Q5\\Q5a.cpp",
+              "ToolTip": "G:\\.shortcut-targets-by-id\\1aCElN31RCj8MZ91EHoxFij3bu2bahZxq\\CTIS151\\151_24_25Fall\\LabGuides\\LG03 - WIP\\LG3_Sols\\LG3_Q5\\Q5a.cpp",
+              "RelativeToolTip": "LG3_Q5\\Q5a.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-23T11:28:07.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AQ3.cpp",
+              "DocumentMoniker": "G:\\.shortcut-targets-by-id\\1aCElN31RCj8MZ91EHoxFij3bu2bahZxq\\CTIS151\\151_24_25Fall\\LabGuides\\LG03 - WIP\\LG3_Sols\\LG3_AQ3\\AQ3.cpp",
+              "RelativeDocumentMoniker": "LG3_AQ3\\AQ3.cpp",
+              "ToolTip": "G:\\.shortcut-targets-by-id\\1aCElN31RCj8MZ91EHoxFij3bu2bahZxq\\CTIS151\\151_24_25Fall\\LabGuides\\LG03 - WIP\\LG3_Sols\\LG3_AQ3\\AQ3.cpp",
+              "RelativeToolTip": "LG3_AQ3\\AQ3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-23T11:25:55.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Q1.cpp",
+              "DocumentMoniker": "G:\\.shortcut-targets-by-id\\1aCElN31RCj8MZ91EHoxFij3bu2bahZxq\\CTIS151\\151_24_25Fall\\LabGuides\\LG03 - WIP\\LG3_Sols\\LG3_Q1\\Q1.cpp",
+              "RelativeDocumentMoniker": "LG3_Q1\\Q1.cpp",
+              "ToolTip": "G:\\.shortcut-targets-by-id\\1aCElN31RCj8MZ91EHoxFij3bu2bahZxq\\CTIS151\\151_24_25Fall\\LabGuides\\LG03 - WIP\\LG3_Sols\\LG3_Q1\\Q1.cpp",
+              "RelativeToolTip": "LG3_Q1\\Q1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-23T11:16:34.642Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
