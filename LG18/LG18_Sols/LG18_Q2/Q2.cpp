@@ -13,6 +13,7 @@ void displayWord(char w[], int size);
 
 int main(void)
 {
+	
 	char firstWord[SIZE], secondWord[SIZE];
 	int size1 = 0, size2 = 0;
 
