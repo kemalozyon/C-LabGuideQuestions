@@ -1,0 +1,4 @@
+﻿  Q4.cpp
+g:\.shortcut-targets-by-id\1-e5ff4npbrdjg8jwnmnrcersvqaa2akm\151_24_25fall\labguides\lg13 - wip\v2\lg13_sols\lg13_sols\lg13_q4\q4.cpp(21): warning C4474: 'printf' : too many arguments passed for format string
+  g:\.shortcut-targets-by-id\1-e5ff4npbrdjg8jwnmnrcersvqaa2akm\151_24_25fall\labguides\lg13 - wip\v2\lg13_sols\lg13_sols\lg13_q4\q4.cpp(21): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  LG13_Q4.vcxproj -> G:\.shortcut-targets-by-id\1-e5fF4NpBRdJG8jWnmnrcErsVQAA2akM\151_24_25Fall\LabGuides\LG13 - WIP\v2\LG13_Sols\LG13_Sols\Debug\LG13_Q4.exe

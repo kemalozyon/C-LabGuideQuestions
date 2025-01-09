@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\.shortcut-targets-by-id\\1aCElN31RCj8MZ91EHoxFij3bu2bahZxq\\CTIS151\\151_24_25Fall\\LabGuides\\LG02 - WIP\\LG2_Sols\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD35756-709A-416A-897A-0190273DB934}|LG2_AQ1\\LG2_AQ1.vcxproj|G:\\.shortcut-targets-by-id\\1aCElN31RCj8MZ91EHoxFij3bu2bahZxq\\CTIS151\\151_24_25Fall\\LabGuides\\LG02 - WIP\\LG2_Sols\\LG2_AQ1\\AQ1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5BD35756-709A-416A-897A-0190273DB934}|LG2_AQ1\\LG2_AQ1.vcxproj|solutionrelative:LG2_AQ1\\AQ1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71445453-1CB6-447B-89B0-D322A5D3B973}|LG2_AQ2\\LG2_AQ2.vcxproj|G:\\.shortcut-targets-by-id\\1aCElN31RCj8MZ91EHoxFij3bu2bahZxq\\CTIS151\\151_24_25Fall\\LabGuides\\LG02 - WIP\\LG2_Sols\\LG2_AQ2\\AQ2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71445453-1CB6-447B-89B0-D322A5D3B973}|LG2_AQ2\\LG2_AQ2.vcxproj|solutionrelative:LG2_AQ2\\AQ2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C832FBA2-96E4-4C64-A3EF-1DCAA3C2C762}|LG2_Q4\\LG2_Q4.vcxproj|G:\\.shortcut-targets-by-id\\1aCElN31RCj8MZ91EHoxFij3bu2bahZxq\\CTIS151\\151_24_25Fall\\LabGuides\\LG02 - WIP\\LG2_Sols\\LG2_Q4\\Q4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C832FBA2-96E4-4C64-A3EF-1DCAA3C2C762}|LG2_Q4\\LG2_Q4.vcxproj|solutionrelative:LG2_Q4\\Q4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F237807B-3A38-4CAE-A2F2-AF9EE0C7FFE2}|LG2_Q3\\LG2_Q3.vcxproj|G:\\.shortcut-targets-by-id\\1aCElN31RCj8MZ91EHoxFij3bu2bahZxq\\CTIS151\\151_24_25Fall\\LabGuides\\LG02 - WIP\\LG2_Sols\\LG2_Q3\\Q3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F237807B-3A38-4CAE-A2F2-AF9EE0C7FFE2}|LG2_Q3\\LG2_Q3.vcxproj|solutionrelative:LG2_Q3\\Q3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070B19BA-E8F3-4F2D-877D-BEEA476C311D}|LG2_Q2\\LG2_Q2.vcxproj|G:\\.shortcut-targets-by-id\\1aCElN31RCj8MZ91EHoxFij3bu2bahZxq\\CTIS151\\151_24_25Fall\\LabGuides\\LG02 - WIP\\LG2_Sols\\LG2_Q2\\Q2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{070B19BA-E8F3-4F2D-877D-BEEA476C311D}|LG2_Q2\\LG2_Q2.vcxproj|solutionrelative:LG2_Q2\\Q2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E30B041-7E57-4381-BCAD-BE12E269F5FA}|LG2_Q1\\LG2_Q1.vcxproj|G:\\.shortcut-targets-by-id\\1aCElN31RCj8MZ91EHoxFij3bu2bahZxq\\CTIS151\\151_24_25Fall\\LabGuides\\LG02 - WIP\\LG2_Sols\\LG2_Q1\\Q1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3E30B041-7E57-4381-BCAD-BE12E269F5FA}|LG2_Q1\\LG2_Q1.vcxproj|solutionrelative:LG2_Q1\\Q1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AQ2.cpp",
+              "DocumentMoniker": "G:\\.shortcut-targets-by-id\\1aCElN31RCj8MZ91EHoxFij3bu2bahZxq\\CTIS151\\151_24_25Fall\\LabGuides\\LG02 - WIP\\LG2_Sols\\LG2_AQ2\\AQ2.cpp",
+              "RelativeDocumentMoniker": "LG2_AQ2\\AQ2.cpp",
+              "ToolTip": "G:\\.shortcut-targets-by-id\\1aCElN31RCj8MZ91EHoxFij3bu2bahZxq\\CTIS151\\151_24_25Fall\\LabGuides\\LG02 - WIP\\LG2_Sols\\LG2_AQ2\\AQ2.cpp",
+              "RelativeToolTip": "LG2_AQ2\\AQ2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-23T10:27:17.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AQ1.cpp",
+              "DocumentMoniker": "G:\\.shortcut-targets-by-id\\1aCElN31RCj8MZ91EHoxFij3bu2bahZxq\\CTIS151\\151_24_25Fall\\LabGuides\\LG02 - WIP\\LG2_Sols\\LG2_AQ1\\AQ1.cpp",
+              "RelativeDocumentMoniker": "LG2_AQ1\\AQ1.cpp",
+              "ToolTip": "G:\\.shortcut-targets-by-id\\1aCElN31RCj8MZ91EHoxFij3bu2bahZxq\\CTIS151\\151_24_25Fall\\LabGuides\\LG02 - WIP\\LG2_Sols\\LG2_AQ1\\AQ1.cpp",
+              "RelativeToolTip": "LG2_AQ1\\AQ1.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-23T10:26:43.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Q4.cpp",
+              "DocumentMoniker": "G:\\.shortcut-targets-by-id\\1aCElN31RCj8MZ91EHoxFij3bu2bahZxq\\CTIS151\\151_24_25Fall\\LabGuides\\LG02 - WIP\\LG2_Sols\\LG2_Q4\\Q4.cpp",
+              "RelativeDocumentMoniker": "LG2_Q4\\Q4.cpp",
+              "ToolTip": "G:\\.shortcut-targets-by-id\\1aCElN31RCj8MZ91EHoxFij3bu2bahZxq\\CTIS151\\151_24_25Fall\\LabGuides\\LG02 - WIP\\LG2_Sols\\LG2_Q4\\Q4.cpp",
+              "RelativeToolTip": "LG2_Q4\\Q4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-23T10:26:35.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Q3.cpp",
+              "DocumentMoniker": "G:\\.shortcut-targets-by-id\\1aCElN31RCj8MZ91EHoxFij3bu2bahZxq\\CTIS151\\151_24_25Fall\\LabGuides\\LG02 - WIP\\LG2_Sols\\LG2_Q3\\Q3.cpp",
+              "RelativeDocumentMoniker": "LG2_Q3\\Q3.cpp",
+              "ToolTip": "G:\\.shortcut-targets-by-id\\1aCElN31RCj8MZ91EHoxFij3bu2bahZxq\\CTIS151\\151_24_25Fall\\LabGuides\\LG02 - WIP\\LG2_Sols\\LG2_Q3\\Q3.cpp",
+              "RelativeToolTip": "LG2_Q3\\Q3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-23T10:26:28.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Q2.cpp",
+              "DocumentMoniker": "G:\\.shortcut-targets-by-id\\1aCElN31RCj8MZ91EHoxFij3bu2bahZxq\\CTIS151\\151_24_25Fall\\LabGuides\\LG02 - WIP\\LG2_Sols\\LG2_Q2\\Q2.cpp",
+              "RelativeDocumentMoniker": "LG2_Q2\\Q2.cpp",
+              "ToolTip": "G:\\.shortcut-targets-by-id\\1aCElN31RCj8MZ91EHoxFij3bu2bahZxq\\CTIS151\\151_24_25Fall\\LabGuides\\LG02 - WIP\\LG2_Sols\\LG2_Q2\\Q2.cpp",
+              "RelativeToolTip": "LG2_Q2\\Q2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-23T10:26:09.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Q1.cpp",
+              "DocumentMoniker": "G:\\.shortcut-targets-by-id\\1aCElN31RCj8MZ91EHoxFij3bu2bahZxq\\CTIS151\\151_24_25Fall\\LabGuides\\LG02 - WIP\\LG2_Sols\\LG2_Q1\\Q1.cpp",
+              "RelativeDocumentMoniker": "LG2_Q1\\Q1.cpp",
+              "ToolTip": "G:\\.shortcut-targets-by-id\\1aCElN31RCj8MZ91EHoxFij3bu2bahZxq\\CTIS151\\151_24_25Fall\\LabGuides\\LG02 - WIP\\LG2_Sols\\LG2_Q1\\Q1.cpp",
+              "RelativeToolTip": "LG2_Q1\\Q1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-23T10:21:03.488Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
