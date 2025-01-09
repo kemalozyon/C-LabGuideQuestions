@@ -5,20 +5,22 @@
       "name": "Debug C Program",
       "type": "cppdbg",
       "request": "launch",
-      "program": "${fileDirname}/${fileBasenameNoExtension}", // Path to the compiled program
+      "program": "${fileDirname}/${fileBasenameNoExtension}",
       "args": [],
       "stopAtEntry": false,
       "cwd": "${fileDirname}",
       "environment": [],
       "externalConsole": false,
-      "MIMode": "lldb", // Use LLDB for debugging
-      "setupCommands": [
-        {
-          "description": "Enable pretty-printing for lldb",
-          "text": "-enable-pretty-printing",
-          "ignoreFailures": true
-        }
-      ]
+      "MIMode": "lldb",
+      "preLaunchTask": "C/C++: gcc build active file"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/kemalozyon/VSCoding/C/C-LabGuideQuestions/LG2",
+      "program": "/Users/kemalozyon/VSCoding/C/C-LabGuideQuestions/LG2/build/Debug/outDebug"
     }
   ]
 }
